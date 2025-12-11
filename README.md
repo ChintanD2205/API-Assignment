@@ -19,12 +19,12 @@ This downloads the first 150 Pokemon
 
 Endpoints
 1. List Pokemon:GET /pokemon
-- Usable Filters:
-/pokemon?name_contains=char
-/pokemon?type=fire
-/pokemon?min_weight=100
-/pokemon?max_weight=300
-/pokemon?limit=20
+Usable Filters:
+- /pokemon?name_contains=char
+- /pokemon?type=fire
+- /pokemon?min_weight=100
+- /pokemon?max_weight=300
+- /pokemon?limit=20
 
 2. Get Pokemon by Name or ID:
 - GET /pokemon/pikachu

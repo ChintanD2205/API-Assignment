@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-api-node",
+  "version": "1.0.0",
+  "description": "Small API wrapper over PokeAPI with caching",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "^4.22.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
